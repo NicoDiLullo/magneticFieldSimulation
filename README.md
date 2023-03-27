@@ -1,2 +1,3 @@
 # magneticFieldSimulation
-Have not pushed recent code in a while...
+
+Out of date repo
